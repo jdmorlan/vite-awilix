@@ -1,0 +1,19 @@
+{
+  "name": "vite-awilix",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@jishida/react-awilix": "0.1.0",
+    "awilix": "4.3.3",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "^1.3.1",
+    "vite": "^2.0.5"
+  }
+}
